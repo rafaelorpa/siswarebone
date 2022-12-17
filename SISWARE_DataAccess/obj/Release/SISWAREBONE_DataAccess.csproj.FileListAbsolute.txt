@@ -1,0 +1,2 @@
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE_DataAccess\obj\Release\SISWAREBONE_DataAccess.csproj.AssemblyReference.cache
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE_DataAccess\obj\Release\SISWAREBONE_DataAccess.csproj.CoreCompileInputs.cache

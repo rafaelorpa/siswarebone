@@ -1,0 +1,201 @@
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SNAPSOFT_test\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\SNAPSOFT\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+G:\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+G:\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+G:\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_DataAccess.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySql.Data.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\MySqlBackup.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SSUtils.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\SISWARE_Entities.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\bin\Debug\es\System.Data.SqlServerCe.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csproj.AssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csproj.CoreCompileInputs.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.csproj.CopyComplete
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE_DataAccess\obj\Debug\SISWARE_DataAccess.pdb

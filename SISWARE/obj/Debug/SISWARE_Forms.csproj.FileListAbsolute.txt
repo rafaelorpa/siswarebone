@@ -1,0 +1,897 @@
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.Form1.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES r\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES1\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+G:\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+G:\AVANCES\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES 05012017\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleKardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 09012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleKardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES 10012017\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleKardexForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputArticleReport.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.Cache
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\RdlCompile.cache
+C:\Users\DXD-VAIO\Desktop\AVANCES SISWARE 14-01-2016\SISWARE\SISWARE\obj\Debug\RdlCompile.compiled
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleKardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputArticleReport.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UpdaterForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.DateKardexForm.resources
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojResolveAssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csprojFakesResolveAssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\fakes.args
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.fakesconfig
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ah
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.ch
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.cs
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.csproj
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakes
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\f.fakesconfig
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\.NETFramework,Version=v4.8.AssemblyAttributes.cs
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.AssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.CopyComplete
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.CoreCompileInputs.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.FileListAbsolute.txt
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.AssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.SuggestedBindingRedirects.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.AboutForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ArticleKardexForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.BackUpForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.CategoryForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ChangePasswordForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.DateKardexForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EmployeeForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.EntityForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ExchangeRateForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.GetDateGeneralConsumptionForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.InputForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.KardexForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.LoginForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.MainForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.OutputForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.ProviderForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralArticleReport.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralConsumptionReportForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInputReportForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralInventoryReportForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralOutputReportForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.GeneralKardexReportForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputArticleReport.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.KardexReportForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputArticleReport.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputByEmployeeForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.OutputReportByControlCodeForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.InputPrintForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectInputForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.reporting.SelectOutputForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchArticleForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchEmployeeForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchInputForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchOutputForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SearchProviderForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.SubCategoryForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UpdaterForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\com.sisware.gui.form.UserForm.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.Properties.Resources.resources
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.GenerateResource.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.CoreCompileInputs.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.exe
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.exe
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.Fakes.fakesconfig
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\MySql.Data.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\MySqlBackup.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SSUtils.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_BusinessLogic.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_Entities.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\bin\Debug\SISWARE_DataAccess.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\SISWARE_Forms.csproj.CopyComplete

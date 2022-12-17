@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISWAREBONE_Forms", "SISWARE\SISWAREBONE_Forms.csproj", "{BB2E1DCF-BC51-4833-8B23-F3846DBD9AA9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8219D72E-AB84-4FA0-871E-655A48BFF16F} = {8219D72E-AB84-4FA0-871E-655A48BFF16F}
+		{AF110E3D-5024-4143-B187-0F90904FD3EC} = {AF110E3D-5024-4143-B187-0F90904FD3EC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISWAREBONE_DataAccess", "SISWARE_DataAccess\SISWAREBONE_DataAccess.csproj", "{E84FE54F-B317-42DC-8D28-74509EE3BD17}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AF110E3D-5024-4143-B187-0F90904FD3EC} = {AF110E3D-5024-4143-B187-0F90904FD3EC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISWAREBONE_Entities", "SISWARE_Entities\SISWAREBONE_Entities.csproj", "{AF110E3D-5024-4143-B187-0F90904FD3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISWAREBONE_BusinessLogic", "SISWARE_BusinessLogic\SISWAREBONE_BusinessLogic.csproj", "{8219D72E-AB84-4FA0-871E-655A48BFF16F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AF110E3D-5024-4143-B187-0F90904FD3EC} = {AF110E3D-5024-4143-B187-0F90904FD3EC}
+		{E84FE54F-B317-42DC-8D28-74509EE3BD17} = {E84FE54F-B317-42DC-8D28-74509EE3BD17}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSUtils", "..\SSUtils\SSUtils\SSUtils.csproj", "{01C158BA-17E6-4D3E-9D5F-114841905527}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SISWARESetup", "SISWARESetup\SISWARESetup.vdproj", "{79FFB85B-9FF7-46D1-9BF5-5B2EEC5F8DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2E1DCF-BC51-4833-8B23-F3846DBD9AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2E1DCF-BC51-4833-8B23-F3846DBD9AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2E1DCF-BC51-4833-8B23-F3846DBD9AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2E1DCF-BC51-4833-8B23-F3846DBD9AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84FE54F-B317-42DC-8D28-74509EE3BD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84FE54F-B317-42DC-8D28-74509EE3BD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84FE54F-B317-42DC-8D28-74509EE3BD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84FE54F-B317-42DC-8D28-74509EE3BD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF110E3D-5024-4143-B187-0F90904FD3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF110E3D-5024-4143-B187-0F90904FD3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF110E3D-5024-4143-B187-0F90904FD3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF110E3D-5024-4143-B187-0F90904FD3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8219D72E-AB84-4FA0-871E-655A48BFF16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8219D72E-AB84-4FA0-871E-655A48BFF16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8219D72E-AB84-4FA0-871E-655A48BFF16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8219D72E-AB84-4FA0-871E-655A48BFF16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C158BA-17E6-4D3E-9D5F-114841905527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C158BA-17E6-4D3E-9D5F-114841905527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C158BA-17E6-4D3E-9D5F-114841905527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C158BA-17E6-4D3E-9D5F-114841905527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FFB85B-9FF7-46D1-9BF5-5B2EEC5F8DFA}.Debug|Any CPU.ActiveCfg = Debug
+		{79FFB85B-9FF7-46D1-9BF5-5B2EEC5F8DFA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CAD5782-B01C-4423-847F-9A1DD39A0D0A}
+	EndGlobalSection
+EndGlobal

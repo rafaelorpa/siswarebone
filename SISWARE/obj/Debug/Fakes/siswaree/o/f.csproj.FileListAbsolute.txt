@@ -1,0 +1,187 @@
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csprojResolveAssemblyReference.cache
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+E:\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll.config
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.AssemblyReference.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.CoreCompileInputs.cache
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.CopyComplete
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+D:\ANTIGUA\DISCO E\TODO SNAPSOFT\SISWARE\AVANCES\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.Fakes.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.Licensing.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.ReportViewer.Common.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.ReportViewer.DataVisualization.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.ReportViewer.WinForms.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySql.Data.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\MySqlBackup.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_Entities.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_BusinessLogic.dll.config
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SISWARE_DataAccess.dll.config
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\SSUtils.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.AssemblyReference.cache
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.CoreCompileInputs.cache
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\f.csproj.CopyComplete
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\o\SISWARE_Entities.Fakes.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\BouncyCastle.Crypto.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Google.Protobuf.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Guna.UI2.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\K4os.Compression.LZ4.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\K4os.Compression.LZ4.Streams.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\K4os.Hash.xxHash.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Buffers.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Memory.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Numerics.Vectors.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\ZstdNet.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Google.Protobuf.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Google.Protobuf.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\K4os.Compression.LZ4.Streams.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\BouncyCastle.Crypto.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Memory.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Buffers.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\K4os.Compression.LZ4.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\K4os.Hash.xxHash.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Numerics.Vectors.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Guna.UI.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.UI.WinForms.1.5.3.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.UI.WinForms.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Costura.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.Win32.Registry.AccessControl.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.Win32.Registry.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.Win32.SystemEvents.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Newtonsoft.Json.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\RestSharp.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.CodeDom.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Configuration.ConfigurationManager.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Data.Odbc.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Data.OleDb.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Data.SqlClient.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Diagnostics.EventLog.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Diagnostics.PerformanceCounter.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Drawing.Common.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.FileSystem.AccessControl.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.Packaging.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.Pipes.AccessControl.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.Ports.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Runtime.CompilerServices.Unsafe.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.AccessControl.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.Cng.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.Pkcs.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.ProtectedData.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.Xml.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Permissions.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Principal.Windows.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Duplex.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Http.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.NetTcp.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Primitives.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Security.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Syndication.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceProcess.ServiceController.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Text.Encoding.CodePages.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Threading.AccessControl.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Web.Services.Description.dll
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.Licensing.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.UI.WinForms.1.5.3.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Bunifu.UI.WinForms.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Costura.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.Win32.Registry.AccessControl.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.Win32.Registry.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Microsoft.Win32.SystemEvents.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\Newtonsoft.Json.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\RestSharp.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.CodeDom.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Configuration.ConfigurationManager.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Data.Odbc.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Data.OleDb.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Data.SqlClient.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Diagnostics.EventLog.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Diagnostics.PerformanceCounter.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Drawing.Common.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.FileSystem.AccessControl.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.Packaging.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.IO.Ports.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Runtime.CompilerServices.Unsafe.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.AccessControl.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.Cng.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.Pkcs.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.ProtectedData.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Cryptography.Xml.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Permissions.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Security.Principal.Windows.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Duplex.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Http.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.NetTcp.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Primitives.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Security.pdb
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceModel.Syndication.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.ServiceProcess.ServiceController.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Text.Encoding.CodePages.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Threading.AccessControl.xml
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\obj\Debug\Fakes\siswaree\b\System.Web.Services.Description.pdb

@@ -1,0 +1,2 @@
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\Fakes\SISWARE_Entities.fakes : warning : No se puede generar stub para com.sisware.bean.EHospital: El tipo no es visible para exported or assembly(SISWARE_Entities.Fakes).
+D:\SNAPSOFT\KHMEDICAL\SISWAREBONE\SISWARE\SISWARE\Fakes\SISWARE_Entities.fakes : warning : No se puede generar shim para com.sisware.bean.EHospital: El tipo no es visible para exported or assembly(SISWARE_Entities.Fakes).

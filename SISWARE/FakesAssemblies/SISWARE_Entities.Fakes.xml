@@ -1,0 +1,2756 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SISWARE_Entities.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:com.sisware.bean.Fakes.ShimEArticle">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EArticle</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEArticle.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEArticle.#ctor(com.sisware.bean.EArticle)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEArticle.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.measureGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_measure()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.measureIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_measureId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.measureIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_measureId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.measureSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_measure(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.subCategoryIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_subCategoryId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.subCategoryIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_subCategoryId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.AllInstances.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_userId(Int32 value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEArticle.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEArticle.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.EArticle()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.measureGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_measure()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.measureIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_measureId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.measureIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_measureId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.measureSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_measure(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.subCategoryIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_subCategoryId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.subCategoryIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_subCategoryId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEArticle.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EArticle.set_userId(Int32 value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimECategory">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.ECategory</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimECategory.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimECategory.#ctor(com.sisware.bean.ECategory)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimECategory.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.groupGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_group()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.groupSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_group(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimECategory.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimECategory.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.ECategory()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.groupGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_group()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.groupSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_group(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimECategory.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ECategory.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEEntity">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EEntity</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEEntity.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEEntity.#ctor(com.sisware.bean.EEntity)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEEntity.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.codeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_code(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.faxGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_fax()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.faxSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_fax(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.logoGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_logo()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.logoSetByteArray">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_logo(Byte[] value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.phoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_phone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.phoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_phone(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.placeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_place()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.placeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_place(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.representativeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_representative()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.representativeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_representative(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.webGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_web()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.webSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_web(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.zoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_zone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.AllInstances.zoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_zone(String value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEEntity.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEEntity.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.EEntity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.codeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_code(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.faxGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_fax()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.faxSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_fax(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.logoGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_logo()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.logoSetByteArray">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_logo(Byte[] value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.phoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_phone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.phoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_phone(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.placeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_place()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.placeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_place(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.representativeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_representative()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.representativeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_representative(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.webGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_web()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.webSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_web(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.zoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.get_zone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEEntity.zoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EEntity.set_zone(String value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInput">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EInput</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInput.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInput.#ctor(com.sisware.bean.EInput)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInput.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.codeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_code(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.hourGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_hour()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.hourSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_hour(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.inputNumberGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_inputNumber()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.inputNumberSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_inputNumber(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.observationGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_observation()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.observationSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_observation(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.providerIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_providerId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.providerIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_providerId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.AllInstances.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_userId(Int32 value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInput.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInput.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.EInput()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.codeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_code(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.hourGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_hour()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.hourSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_hour(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.inputNumberGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_inputNumber()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.inputNumberSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_inputNumber(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.observationGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_observation()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.observationSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_observation(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.providerIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_providerId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.providerIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_providerId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInput.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInput.set_userId(Int32 value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInstrumentalist">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EInstrumentalist</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInstrumentalist.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInstrumentalist.#ctor(com.sisware.bean.EInstrumentalist)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.cellGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_cell()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.cellSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_cell(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.ciGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_ci()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.ciSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_ci(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.surnameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_surname()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.surnameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_surname(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInstrumentalist.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInstrumentalist.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.EInstrumentalist()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.cellGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_cell()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.cellSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_cell(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.ciGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_ci()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.ciSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_ci(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.surnameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.get_surname()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.surnameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.set_surname(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInstrumentalist.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInstrumentalist.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInventory">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EInventory</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventory.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventory.#ctor(com.sisware.bean.EInventory)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInventory.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.codeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_code(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.inputIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_inputId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.inputIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_inputId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.lotGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_lot()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.lotSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_lot(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.residueGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_residue()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.residueSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_residue(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.AllInstances.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_userId(Int32 value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventory.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventory.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.EInventory()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.codeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_code(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.inputIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_inputId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.inputIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_inputId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.lotGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_lot()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.lotSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_lot(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.residueGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_residue()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.residueSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_residue(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventory.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventory.set_userId(Int32 value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInventoryGeneral">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EInventoryGeneral</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryGeneral.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryGeneral.#ctor(com.sisware.bean.EInventoryGeneral)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.balanceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_balance()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.balanceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_balance(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.balance_initGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_balance_init()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.balance_initSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_balance_init(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.bsUnitPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_bsUnitPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.bsUnitPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_bsUnitPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.ca_codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_ca_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.ca_codeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_ca_code(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.ca_descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_ca_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.ca_descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_ca_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.codeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_code(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.ufvGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_ufv()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.ufvSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_ufv(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.unidGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_unid()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.AllInstances.unidSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_unid(String value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryGeneral.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryGeneral.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.EInventoryGeneral()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.balanceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_balance()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.balanceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_balance(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.balance_initGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_balance_init()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.balance_initSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_balance_init(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.bsUnitPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_bsUnitPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.bsUnitPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_bsUnitPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.ca_codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_ca_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.ca_codeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_ca_code(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.ca_descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_ca_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.ca_descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_ca_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.codeSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_code(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.ufvGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_ufv()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.ufvSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_ufv(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.unidGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.get_unid()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryGeneral.unidSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryGeneral.set_unid(String value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInventoryTemp">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EInventoryTemp</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryTemp.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryTemp.#ctor(com.sisware.bean.EInventoryTemp)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.articleCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_articleCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.articleCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_articleCode(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.bsTotalPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_bsTotalPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.bsTotalPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_bsTotalPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.bsUnitPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_bsUnitPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.bsUnitPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_bsUnitPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.codeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_code(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.inputBillGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_inputBill()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.inputBillSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_inputBill(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.inputCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_inputCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.inputCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_inputCode(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.lotGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_lot()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.lotSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_lot(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.providerCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_providerCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.providerCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_providerCode(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.residueGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_residue()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.residueSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_residue(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.ufvTotalPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_ufvTotalPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.ufvTotalPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_ufvTotalPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.ufvUnitPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_ufvUnitPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.ufvUnitPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_ufvUnitPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.userCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_userCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.AllInstances.userCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_userCode(Int32 value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryTemp.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEInventoryTemp.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.EInventoryTemp()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.articleCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_articleCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.articleCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_articleCode(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.bsTotalPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_bsTotalPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.bsTotalPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_bsTotalPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.bsUnitPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_bsUnitPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.bsUnitPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_bsUnitPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.codeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_code()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.codeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_code(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.inputBillGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_inputBill()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.inputBillSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_inputBill(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.inputCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_inputCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.inputCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_inputCode(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.lotGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_lot()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.lotSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_lot(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.providerCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_providerCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.providerCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_providerCode(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.residueGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_residue()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.residueSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_residue(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.ufvTotalPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_ufvTotalPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.ufvTotalPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_ufvTotalPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.ufvUnitPriceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_ufvUnitPrice()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.ufvUnitPriceSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_ufvUnitPrice(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.userCodeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.get_userCode()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEInventoryTemp.userCodeSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EInventoryTemp.set_userCode(Int32 value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEKardex">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EKardex</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEKardex.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEKardex.#ctor(com.sisware.bean.EKardex)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEKardex.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.bsUnitPrice_inputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_bsUnitPrice_input()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.bsUnitPrice_inputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_bsUnitPrice_input(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.bsUnitPrice_outputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_bsUnitPrice_output()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.bsUnitPrice_outputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_bsUnitPrice_output(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.bsUnitPrice_saldoGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_bsUnitPrice_saldo()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.bsUnitPrice_saldoSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_bsUnitPrice_saldo(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.detailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_detail()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.detailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_detail(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.exchangeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_exchange()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.exchangeSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_exchange(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.hourGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_hour()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.hourSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_hour(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.loteGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_lote()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.loteSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_lote(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.numberInputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_numberInput()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.numberInputSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_numberInput(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.numberOutputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_numberOutput()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.numberOutputSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_numberOutput(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.quantity_inputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_quantity_input()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.quantity_inputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_quantity_input(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.quantity_outputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_quantity_output()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.quantity_outputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_quantity_output(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.quantity_saldoGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_quantity_saldo()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.AllInstances.quantity_saldoSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_quantity_saldo(Double value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEKardex.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEKardex.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.EKardex()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.bsUnitPrice_inputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_bsUnitPrice_input()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.bsUnitPrice_inputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_bsUnitPrice_input(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.bsUnitPrice_outputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_bsUnitPrice_output()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.bsUnitPrice_outputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_bsUnitPrice_output(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.bsUnitPrice_saldoGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_bsUnitPrice_saldo()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.bsUnitPrice_saldoSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_bsUnitPrice_saldo(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.detailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_detail()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.detailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_detail(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.exchangeGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_exchange()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.exchangeSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_exchange(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.hourGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_hour()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.hourSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_hour(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.loteGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_lote()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.loteSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_lote(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.numberInputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_numberInput()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.numberInputSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_numberInput(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.numberOutputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_numberOutput()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.numberOutputSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_numberOutput(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.quantity_inputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_quantity_input()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.quantity_inputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_quantity_input(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.quantity_outputGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_quantity_output()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.quantity_outputSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_quantity_output(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.quantity_saldoGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.get_quantity_saldo()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEKardex.quantity_saldoSetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EKardex.set_quantity_saldo(Double value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEMeasure">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EMeasure</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMeasure.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMeasure.#ctor(com.sisware.bean.EMeasure)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEMeasure.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMeasure.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMeasure.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.EMeasure()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.descriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.get_description()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.descriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.set_description(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMeasure.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMeasure.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEMedical">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EMedical</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMedical.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMedical.#ctor(com.sisware.bean.EMedical)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEMedical.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.cellGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_cell()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.cellSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_cell(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.specialityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_speciality()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.specialitySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_speciality(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.surnameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_surname()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.surnameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_surname(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMedical.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEMedical.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.EMedical()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.cellGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_cell()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.cellSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_cell(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.specialityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_speciality()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.specialitySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_speciality(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.surnameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.get_surname()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.surnameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.set_surname(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEMedical.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EMedical.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEOutput">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EOutput</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEOutput.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEOutput.#ctor(com.sisware.bean.EOutput)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEOutput.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.dateConfirmGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_dateConfirm()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.dateConfirmSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_dateConfirm(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.dateSurgeryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_dateSurgery()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.dateSurgerySetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_dateSurgery(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.diagnosisGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_diagnosis()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.diagnosisSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_diagnosis(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.hospitalIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_hospitalId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.hospitalIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_hospitalId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.hourEntryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_hourEntry()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.hourEntrySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_hourEntry(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.hourExitGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_hourExit()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.hourExitSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_hourExit(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.instrumentalistIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_instrumentalistId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.instrumentalistIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_instrumentalistId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.inventaryIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_inventaryId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.inventaryIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_inventaryId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.medicalIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_medicalId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.medicalIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_medicalId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.observationGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_observation()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.observationSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_observation(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.outputNumberGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_outputNumber()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.outputNumberSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_outputNumber(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.patientIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_patientId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.patientIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_patientId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.AllInstances.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_userId(Int32 value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEOutput.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEOutput.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.EOutput()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.dateConfirmGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_dateConfirm()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.dateConfirmSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_dateConfirm(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.dateSurgeryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_dateSurgery()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.dateSurgerySetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_dateSurgery(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.diagnosisGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_diagnosis()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.diagnosisSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_diagnosis(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.hospitalIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_hospitalId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.hospitalIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_hospitalId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.hourEntryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_hourEntry()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.hourEntrySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_hourEntry(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.hourExitGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_hourExit()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.hourExitSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_hourExit(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.instrumentalistIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_instrumentalistId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.instrumentalistIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_instrumentalistId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.inventaryIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_inventaryId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.inventaryIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_inventaryId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.medicalIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_medicalId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.medicalIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_medicalId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.observationGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_observation()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.observationSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_observation(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.outputNumberGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_outputNumber()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.outputNumberSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_outputNumber(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.patientIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_patientId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.patientIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_patientId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.quantityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_quantity()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.quantitySetDouble">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_quantity(Double value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.userIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.get_userId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEOutput.userIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EOutput.set_userId(Int32 value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEPatient">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EPatient</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEPatient.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEPatient.#ctor(com.sisware.bean.EPatient)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEPatient.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.cellGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_cell()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.cellSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_cell(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.ciGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_ci()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.ciSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_ci(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.surnameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_surname()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.surnameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_surname(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEPatient.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEPatient.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.EPatient()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.cellGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_cell()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.cellSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_cell(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.ciGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_ci()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.ciSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_ci(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.surnameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.get_surname()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.surnameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.set_surname(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEPatient.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EPatient.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEProvider">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EProvider</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEProvider.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEProvider.#ctor(com.sisware.bean.EProvider)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEProvider.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.categoryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_category()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.categorySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_category(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.contactNameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_contactName()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.contactNameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_contactName(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.countryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_country()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.countrySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_country(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.nitGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_nit()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.nitSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_nit(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.phoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_phone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.phoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_phone(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.telephoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_telephone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.telephoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_telephone(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEProvider.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEProvider.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.EProvider()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.addressGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_address()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.addressSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_address(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.categoryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_category()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.categorySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_category(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.cityGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_city()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.citySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_city(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.contactNameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_contactName()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.contactNameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_contactName(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.countryGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_country()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.countrySetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_country(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.emailGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_email()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.emailSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_email(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.nitGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_nit()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.nitSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_nit(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.phoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_phone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.phoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_phone(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.telephoneGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.get_telephone()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.telephoneSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.set_telephone(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEProvider.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EProvider.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimERole">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.ERole</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimERole.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimERole.#ctor(com.sisware.bean.ERole)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimERole.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.descripcionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.get_descripcion()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.descripcionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.set_descripcion(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimERole.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimERole.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.ERole()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.descripcionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.get_descripcion()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.descripcionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.set_descripcion(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimERole.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ERole.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimESearchArticle">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.ESearchArticle</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESearchArticle.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESearchArticle.#ctor(com.sisware.bean.ESearchArticle)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.articleDescriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.get_articleDescription()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.articleDescriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.set_articleDescription(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.articleMeasureUnitGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.get_articleMeasureUnit()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.articleMeasureUnitSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.set_articleMeasureUnit(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESearchArticle.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESearchArticle.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.ESearchArticle()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.articleDescriptionGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.get_articleDescription()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.articleDescriptionSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.set_articleDescription(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.articleIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.get_articleId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.articleIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.set_articleId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.articleMeasureUnitGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.get_articleMeasureUnit()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.articleMeasureUnitSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.set_articleMeasureUnit(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESearchArticle.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESearchArticle.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimESubCategory">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.ESubCategory</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESubCategory.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESubCategory.#ctor(com.sisware.bean.ESubCategory)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimESubCategory.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.categoryIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_categoryId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.categoryIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_categoryId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.toString()</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESubCategory.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimESubCategory.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.ESubCategory()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.categoryIdGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_categoryId()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.categoryIdSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_categoryId(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.nameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.get_name()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.nameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.set_name(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimESubCategory.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de ESubCategory.toString()</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEUser">
+            <summary>Tipo de correcciones de compatibilidad (shim) de com.sisware.bean.EUser</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEUser.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEUser.#ctor(com.sisware.bean.EUser)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.ShimEUser.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.ciGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_ci()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.ciSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_ci(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.firstNameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_firstName()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.firstNameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_firstName(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.lastNameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_lastName()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.lastNameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_lastName(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.namesGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_names()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.namesSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_names(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.passwordGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_password()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.passwordSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_password(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.roleGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_role()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.roleSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_role(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.traceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_trace()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.traceSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_trace(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.userGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_user()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.AllInstances.userSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_user(String value)</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEUser.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.ShimEUser.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.Constructor">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.EUser()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.ciGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_ci()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.ciSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_ci(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.dateGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_date()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.dateSetDateTime">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_date(DateTime value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.firstNameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_firstName()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.firstNameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_firstName(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.idGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_id()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.idSetInt32">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_id(Int32 value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.lastNameGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_lastName()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.lastNameSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_lastName(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.namesGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_names()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.namesSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_names(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.passwordGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_password()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.passwordSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_password(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.roleGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_role()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.roleSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_role(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.toString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.toString()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.traceGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_trace()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.traceSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_trace(String value)</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.userGet">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.get_user()</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.ShimEUser.userSetString">
+            <summary>Establecer el Correcciones de compatibilidad (shim) de EUser.set_user(String value)</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEArticle">
+            <summary>Tipo stub de com.sisware.bean.EArticle</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEArticle.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEArticle.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEArticle.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEArticle</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEArticle.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEArticle.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubECategory">
+            <summary>Tipo stub de com.sisware.bean.ECategory</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubECategory.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubECategory.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubECategory.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubECategory</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubECategory.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubECategory.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEEntity">
+            <summary>Tipo stub de com.sisware.bean.EEntity</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEEntity.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEEntity.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEEntity.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEEntity</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEEntity.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEEntity.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEInput">
+            <summary>Tipo stub de com.sisware.bean.EInput</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInput.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInput.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInput.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEInput</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInput.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInput.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEInstrumentalist">
+            <summary>Tipo stub de com.sisware.bean.EInstrumentalist</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInstrumentalist.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInstrumentalist.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInstrumentalist.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEInstrumentalist</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInstrumentalist.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInstrumentalist.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEInventory">
+            <summary>Tipo stub de com.sisware.bean.EInventory</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInventory.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventory.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInventory.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEInventory</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventory.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventory.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEInventoryGeneral">
+            <summary>Tipo stub de com.sisware.bean.EInventoryGeneral</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInventoryGeneral.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventoryGeneral.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInventoryGeneral.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEInventoryGeneral</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventoryGeneral.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventoryGeneral.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEInventoryTemp">
+            <summary>Tipo stub de com.sisware.bean.EInventoryTemp</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInventoryTemp.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventoryTemp.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEInventoryTemp.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEInventoryTemp</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventoryTemp.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEInventoryTemp.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEKardex">
+            <summary>Tipo stub de com.sisware.bean.EKardex</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEKardex.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEKardex.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEKardex.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEKardex</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEKardex.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEKardex.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEMeasure">
+            <summary>Tipo stub de com.sisware.bean.EMeasure</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEMeasure.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEMeasure.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEMeasure.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEMeasure</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEMeasure.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEMeasure.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEMedical">
+            <summary>Tipo stub de com.sisware.bean.EMedical</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEMedical.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEMedical.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEMedical.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEMedical</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEMedical.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEMedical.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEOutput">
+            <summary>Tipo stub de com.sisware.bean.EOutput</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEOutput.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEOutput.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEOutput.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEOutput</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEOutput.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEOutput.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEPatient">
+            <summary>Tipo stub de com.sisware.bean.EPatient</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEPatient.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEPatient.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEPatient.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEPatient</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEPatient.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEPatient.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEProvider">
+            <summary>Tipo stub de com.sisware.bean.EProvider</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEProvider.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEProvider.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEProvider.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEProvider</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEProvider.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEProvider.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubERole">
+            <summary>Tipo stub de com.sisware.bean.ERole</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubERole.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubERole.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubERole.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubERole</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubERole.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubERole.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubESearchArticle">
+            <summary>Tipo stub de com.sisware.bean.ESearchArticle</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubESearchArticle.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubESearchArticle.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubESearchArticle.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubESearchArticle</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubESearchArticle.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubESearchArticle.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubESubCategory">
+            <summary>Tipo stub de com.sisware.bean.ESubCategory</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubESubCategory.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubESubCategory.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubESubCategory.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubESubCategory</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubESubCategory.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubESubCategory.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:com.sisware.bean.Fakes.StubEUser">
+            <summary>Tipo stub de com.sisware.bean.EUser</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEUser.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEUser.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:com.sisware.bean.Fakes.StubEUser.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubEUser</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEUser.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:com.sisware.bean.Fakes.StubEUser.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>
